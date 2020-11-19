@@ -30,7 +30,7 @@ Have you ever wonder how google classifies the mail in the Spam folder in your G
 _For more examples and usage, please refer to the [here][link]._
 
 ## Outputs
-<img src="https://github.com/aakash-cse/SpamHamClassification/blob/main/Images/output.png">
+<img src="https://github.com/aakash-cse/SpamHamClassification/blob/main/Images/output.PNG">
 
 <!--
 ## Development setup
