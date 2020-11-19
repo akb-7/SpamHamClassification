@@ -3,7 +3,7 @@
 
 This repository contains the source code for the Classification of the text data whether it is Spam/Ham using the Machine Learning.
 
-![](header.png)
+<img src="https://github.com/aakash-cse/SpamHamClassification/blob/main/Images/header.png">
 
 <!--
 ## Installation
@@ -30,7 +30,11 @@ Have you ever wonder how google classifies the mail in the Spam folder in your G
 _For more examples and usage, please refer to the [here][link]._
 
 ## Outputs
+<<<<<<< HEAD
+<img src="https://github.com/aakash-cse/SpamHamClassification/blob/main/Images/output.png">
+=======
 <img src="https://github.com/aakash-cse/SpamHamClassification/blob/main/Images/output.PNG">
+>>>>>>> 17ceaca6c9f1740628240895ce9bd60ce8f3eee7
 
 <!--
 ## Development setup
